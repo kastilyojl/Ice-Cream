@@ -11,3 +11,4 @@
 ## Credits
 
 ### Color Palette Used: [Color Hunt](https://colorhunt.co/)
+### Images Used: [Pexels](https://www.pexels.com/)
